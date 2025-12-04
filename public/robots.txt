@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ivana.widjanarko.com/sitemap.xml
