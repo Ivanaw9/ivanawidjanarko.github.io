@@ -54,7 +54,7 @@ Forecasted demand, executed push/pull strategies, and reduced carbon tax impact 
         links: [
             {
                 text: "Live Demo",
-                url: "https://iwidjana.pages.iu.edu/Prototype/",
+                url: "https://ivanaw9.github.io/Project_Future_Prototype/",
                 icon: "fas fa-external-link-alt",
             },
             {
